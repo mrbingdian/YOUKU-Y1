@@ -24,4 +24,4 @@ sed -i '$a src-git Aibx https://github.com/Aibx/openwrt-packages' feeds.conf.def
 #sed -i '$a src-git mmdvm https://github.com/lazywalker/mmdvm-openwrt' feeds.conf.default
 sed -i '$a src-git mmdvm https://github.com/lazywalker/mmdvm-openwrt;OLED' feeds.conf.default
 
-sed -i '$a src-git helloworld https://github.com/fw876/helloworld' feeds.conf.default
+#sed -i '$a src-git helloworld https://github.com/fw876/helloworld' feeds.conf.default
